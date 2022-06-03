@@ -1,6 +1,6 @@
 Shonim Shaheen | 17
 🌱 Currently learning Java.
-Email: @shonimwork@gmail.com
+Email: shonimwork@gmail.com
 
 <!---
 shonimshaheen/shonimshaheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
