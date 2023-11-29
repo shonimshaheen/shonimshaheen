@@ -1,5 +1,6 @@
 Shonim Shaheen | 18
-🌱 Currently learning Java.
+🌱 Have used Java before
+🌱 Currently learning Python
 Email: shonimwork@gmail.com
 
 <!---
